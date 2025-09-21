@@ -22,6 +22,7 @@
       "type": 3,
       "timeout": 30,
       "jar": "http://pglblb.test.upcdn.net/%20JAR/feimao.jar",
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "api": "csp_LiteApple",
       "searchable": 1,
       "quickSearch": 1,
@@ -657,7 +658,7 @@
         "type": "rect",
         "ratio": 1.6
       }
-    }，
+    },
     {
       "key": "csp_XYQHiker_hanimi1",
       "name": "🔞Hanime1(XYQHiker)",
@@ -671,7 +672,7 @@
         "type": "rect",
         "ratio": 1.6
       }
-    }，
+    },
     {
       "key": "csp_XYQHiker_动漫后宫",
       "name": "❌🔞动漫后宫(XYQHiker)",
@@ -685,7 +686,7 @@
         "type": "rect",
         "ratio": 1.6
       }
-    }，
+    },
     {
       "key": "csp_XYQHiker_jiedm",
       "name": "🔞jiedmAV(XYQHiker)",
@@ -699,7 +700,7 @@
         "type": "rect",
         "ratio": 1.6
       }
-    }，
+    },
     {
       "key": "csp_XYQHiker_xtoons",
       "name": "🔞Xtoons动漫(XYQHiker)",
@@ -713,7 +714,7 @@
         "type": "rect",
         "ratio": 1.6
       }
-    }，
+    },
     {
       "key": "csp_XYQHiker_动漫PRO",
       "name": "🔞动漫PRO(XYQHiker)",
@@ -727,7 +728,7 @@
         "type": "rect",
         "ratio": 1.6
       }
-    }，
+    },
     {
       "key": "csp_XYQHiker_ACG漫画网",
       "name": "🔞ACG漫画网(XYQHiker)",
@@ -1257,12 +1258,12 @@
       "quickSearch": 1,
       "categories": [
         
-      ]，
+      ],
       "style": {
         "type": "rect",
         "ratio": 1.6
       }
-    }，
+    },
     {
       "key": "蜜桃资源🌈🔞",
       "name": "🔞蜜桃资源🌈",
@@ -1538,7 +1539,7 @@
         "type": "rect",
         "ratio": 1.597
       }
-    }，
+    },
     {
       "key": "csp_XYQHiker_krx18",
       "name": "🔞KRX18(服务器垃圾)",
@@ -3376,10 +3377,10 @@
       "searchable": 1,
       "changeable": 1,
       "categories": [
-        "短剧"，
+        "短剧",
         "伦理片"
       ]
-    }，
+    },
     {
       "key": "无尽",
       "name": "🈲 成人频道[无尽]🌈",
@@ -3390,7 +3391,7 @@
       "categories": [
         "伦理片"
       ]
-    }，
+    },
     {
       "key": "ikun",
       "name": "🈲 成人频道[ikun]🌈",
@@ -3401,7 +3402,7 @@
       "categories": [
         "伦理片"
       ]
-    }，
+    },
     {
       "key": "速播",
       "name": "🈲 成人频道[速播]🌈",
@@ -3421,11 +3422,11 @@
       "searchable": 1,
       "changeable": 1,
       "categories": [
-        "伦理"，
-        "港台三级"，
+        "伦理",
+        "港台三级",
         "韩国伦理"
       ]
-    }，
+    },
     {
       "key": "百度",
       "name": "🈲 成人频道[百度]🌈",
@@ -3436,7 +3437,7 @@
       "categories": [
         "伦理片"
       ]
-    }，
+    },
     {
       "key": "光速",
       "name": "🈲 成人频道[光速]🌈",
@@ -3447,7 +3448,7 @@
       "categories": [
         "伦理片"
       ]
-    }，
+    },
     {
       "key": "金鹰",
       "name": "🈲 成人频道[金鹰]🌈",
@@ -5521,32 +5522,32 @@
       "script": [
         "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
       ]
-    }，
+    },
     {
       "name": "磁力广告",
       "hosts": [
         "magnet"
-      ]，
+      ],
       "regex": [
         "更多",
-        "社 區"，
-        "x u u"，
-        "最 新"，
+        "社 區",
+        "x u u",
+        "最 新",
         "直 播",
         "更 新",
-        "社 区"，
-        "有 趣"，
-        "英皇体育"，
+        "社 区",
+        "有 趣",
+        "英皇体育",
         "全中文AV在线",
         "澳门皇冠赌场",
-        "哥哥快来"，
-        "美女荷官"，
-        "裸聊"，
+        "哥哥快来",
+        "美女荷官",
+        "裸聊",
         "新片首发",
         "UUE29"
       ]
     }
-  ]，
+  ],
   "parses": [
     {
       "name": "解析聚合",
@@ -5570,18 +5571,18 @@
     }
   ],
   "flags": [
-    "youku"，
-    "qq"，
+    "youku",
+    "qq",
     "iqiyi",
     "qiyi",
-    "letv"，
-    "sohu"，
-    "tudou"，
+    "letv",
+    "sohu",
+    "tudou",
     "pptv",
     "mgtv",
-    "wasu"，
-    "renrenmi"，
-    "duoduozy"，
+    "wasu",
+    "renrenmi",
+    "duoduozy",
     "bilibili"
   ],
   "ijk": [
@@ -5707,47 +5708,47 @@
           "category": 1,
           "name": "fflags",
           "value": "fastseek"
-        }，
+        },
         {
           "category": 2,
           "name": "skip_loop_filter",
           "value": "48"
-        }，
+        },
         {
           "category": 4,
           "name": "reconnect",
           "value": "1"
-        }，
+        },
         {
           "category": 4,
           "name": "max-buffer-size",
           "value": "5242880"
-        }，
+        },
         {
           "category": 4,
           "name": "enable-accurate-seek",
           "value": "0"
-        }，
+        },
         {
           "category": 4,
           "name": "mediacodec",
           "value": "1"
-        }，
+        },
         {
           "category": 4,
           "name": "mediacodec-auto-rotate",
           "value": "1"
-        }，
+        },
         {
           "category": 4,
           "name": "mediacodec-handle-resolution-change",
           "value": "1"
-        }，
+        },
         {
           "category": 4,
           "name": "mediacodec-hevc",
           "value": "1"
-        }，
+        },
         {
           "category": 1,
           "name": "dns_cache_timeout",
@@ -5755,8 +5756,8 @@
         }
       ]
     }
-  ]，
+  ],
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "disabled_wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "logo": "https://tvv.tw/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/imgs/pg.gif"
-    }
+}
