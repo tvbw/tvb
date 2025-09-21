@@ -1,20 +1,6 @@
 {
-  "spider": "http://pglblb.test.upcdn.net/%20JAR/xyq202503_fh.jar",
+  "spider": "https://gh-proxy.playdreamer.cn/https://raw.githubusercontent.com/tvbw/18-/main/jar/xyq202503%E7%BC%9D%E5%90%88.jar",
   "wallpaper": "https://pic.850930.xyz/",
-  "headers": [
-    {
-      "host": "aosikazy3.com",
-      "header": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36"
-      }
-    },
-    {
-      "host": "madou.club",
-      "header": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36"
-      }
-    }
-  ],
   "sites": [
     {
       "key": "csp_LiteApple",
@@ -5761,3 +5747,4 @@
   "disabled_wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "logo": "https://tvv.tw/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/imgs/pg.gif"
 }
+
