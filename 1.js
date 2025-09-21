@@ -1,5 +1,5 @@
 {
-  "spider": "http://pglblb.test.upcdn.net/%20JAR/pg.jar",
+  "spider": "http://pglblb.test.upcdn.net/%20JAR/xyq202503_fh.jar",
   "wallpaper": "https://pic.850930.xyz/",
   "headers": [
     {
